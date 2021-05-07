@@ -2,4 +2,4 @@
 
 ## Demo repo for Git-Demo
 
-## Changes made
+## Made changes
